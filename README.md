@@ -6,3 +6,9 @@ A VR, co-op horror game, that focuses on low communication and communication iss
 Aktuelle Aufgaben:
 - Multiplayer möglichkeit finden
 - VR Setupen (Wenn Zeit noch da ist ein paar Funktionalitäten aufstellen)
+
+17.03. 
++ Eine Repo für dieses Project
++ VR Headtracking
++ Controller tracking
++ Zwick- und Greifanimation
